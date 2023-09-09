@@ -3,11 +3,28 @@
 Realaml SDK supports iOS 11 and above
 
 
-## Install iOS framework from Cocoapods
+## Installation
+
+### Cocoapods
+To integrate Realaml into your Xcode project using Cocoapods, specify it in your `Podfile`:
 ```
 pod 'Realaml'
 ```
 
+### Carthage
+To integrate Realaml into your Xcode project using Carthage, specify it in your `Cartfile`:
+```
+github "realaml/ios-sdk"
+```
+
+### Swift Package Manager
+To integrate Realaml into your Xcode project using Swift Package Manager, add it using the below url:
+```
+https://github.com/realaml/ios-sdk
+```
+
+### Manually
+To integrate Realaml into your Xcode project manually, add `Realaml.xcframework` to `Frameworks, Libraries, and Embedded Content` section manually:
 
 ## Required Permissions
 ```
