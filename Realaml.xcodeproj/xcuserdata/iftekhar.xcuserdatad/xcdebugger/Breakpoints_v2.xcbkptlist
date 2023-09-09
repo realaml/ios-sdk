@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0870E0EA-23C1-4C83-9290-D9638735F21F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C54C94A-DBBF-4BC3-A173-938719F4ADBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Realaml/Views/KYC/KYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "evaluateCompletion()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C54C94A-DBBF-4BC3-A173-938719F4ADBC - 96ceebb086d82bde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Realaml.KYCViewController.evaluateCompletion() -&gt; ()"
+                  moduleName = "Realaml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iftekhar/Projects/Projects/Gowtham/ios-sdk-framework-codes/Realaml/Views/KYC/KYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "3C54C94A-DBBF-4BC3-A173-938719F4ADBC - 96ceebb086d82bde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Realaml.KYCViewController.evaluateCompletion() -&gt; ()"
+                  moduleName = "Realaml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iftekhar/Projects/Projects/Gowtham/ios-sdk-framework-codes/Realaml/Views/KYC/KYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "3C54C94A-DBBF-4BC3-A173-938719F4ADBC - 96ceebb086d82bde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Realaml.KYCViewController.evaluateCompletion() -&gt; ()"
+                  moduleName = "Realaml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iftekhar/Projects/Projects/Gowtham/ios-sdk-framework-codes/Realaml/Views/KYC/KYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "3C54C94A-DBBF-4BC3-A173-938719F4ADBC - 96ceebb086d82bde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Realaml.KYCViewController.evaluateCompletion() -&gt; ()"
+                  moduleName = "Realaml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iftekhar/Projects/Projects/Gowtham/ios-sdk-framework-codes/Realaml/Views/KYC/KYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "3C54C94A-DBBF-4BC3-A173-938719F4ADBC - 96ceebb086d82bde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Realaml.KYCViewController.evaluateCompletion() -&gt; ()"
+                  moduleName = "Realaml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iftekhar/Projects/Projects/Gowtham/ios-sdk-framework-codes/Realaml/Views/KYC/KYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "585824FE-6324-4E65-A014-9430D0AD524C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Realaml/Views/KYC/KYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "evaluatePhotoError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "585824FE-6324-4E65-A014-9430D0AD524C - aefcef97f8971c4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Realaml.KYCViewController.evaluatePhotoError() -&gt; ()"
+                  moduleName = "Realaml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iftekhar/Projects/Projects/Gowtham/ios-sdk-framework-codes/Realaml/Views/KYC/KYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "585824FE-6324-4E65-A014-9430D0AD524C - aefcef97f8971c4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Realaml.KYCViewController.evaluatePhotoError() -&gt; ()"
+                  moduleName = "Realaml"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iftekhar/Projects/Projects/Gowtham/ios-sdk-framework-codes/Realaml/Views/KYC/KYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

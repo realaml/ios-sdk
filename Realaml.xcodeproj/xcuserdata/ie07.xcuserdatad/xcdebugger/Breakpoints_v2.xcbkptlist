@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "27E03252-B2A6-45F3-B8E5-84E16187B63F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E65F1403-324B-42C6-B55E-8B0F0F6ECA2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "305"
+            endingLineNumber = "305"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E65F1403-324B-42C6-B55E-8B0F0F6ECA2D - 104e3bb338ecdd2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E65F1403-324B-42C6-B55E-8B0F0F6ECA2D - 104e3bb338ecdd2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6015EF20-CB5C-410E-95E7-63DEF6704CD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6015EF20-CB5C-410E-95E7-63DEF6704CD7 - 104e3bb338ecddd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "6015EF20-CB5C-410E-95E7-63DEF6704CD7 - 104e3bb338ecddd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "1357">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A19E90EF-1539-4D8B-A497-59FCCF650528"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "314"
+            endingLineNumber = "314"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A19E90EF-1539-4D8B-A497-59FCCF650528 - 104e3bb338ecdc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "2180">
+               </Location>
+               <Location
+                  uuid = "A19E90EF-1539-4D8B-A497-59FCCF650528 - 104e3bb338ecdc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "2134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51ACCD47-9623-4EB9-BAC4-BC7277415CC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "photoOutput(_:didFinishProcessingPhoto:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51ACCD47-9623-4EB9-BAC4-BC7277415CC3 - 104e3bb338ecdc99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "317"
+                  endingLineNumber = "317"
+                  offsetFromSymbolStart = "1816">
+               </Location>
+               <Location
+                  uuid = "51ACCD47-9623-4EB9-BAC4-BC7277415CC3 - 104e3bb338ecdc99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureSessionManager.photoOutput(_: __C.AVCapturePhotoOutput, didFinishProcessingPhoto: __C.AVCapturePhoto, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "317"
+                  endingLineNumber = "317"
+                  offsetFromSymbolStart = "1807">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B5A6895-CC8C-4AA3-832D-A6AA0EDB9E55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "completeImageCapture(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B5A6895-CC8C-4AA3-832D-A6AA0EDB9E55 - bdd33314b86e08d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in KYC_SDK.CaptureSessionManager.completeImageCapture(with: Foundation.Data) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "1B5A6895-CC8C-4AA3-832D-A6AA0EDB9E55 - bdd33314b86e08d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in KYC_SDK.CaptureSessionManager.completeImageCapture(with: Foundation.Data) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333"
+                  offsetFromSymbolStart = "179">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC62DCAB-5A42-4064-B602-BBFA9870CB88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Views/Capture/CaptureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "captureSessionManager(_:didFailWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CC62DCAB-5A42-4064-B602-BBFA9870CB88 - 1370051bed94809f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "CC62DCAB-5A42-4064-B602-BBFA9870CB88 - 1370051bed94809f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "CC62DCAB-5A42-4064-B602-BBFA9870CB88 - 1370051bed94809f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "CC62DCAB-5A42-4064-B602-BBFA9870CB88 - 1370051bed94809f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "241">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0504383-00E7-46E7-AB6E-190B5E8A8DEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Views/Capture/CaptureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "didStartCapturingPicture(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0504383-00E7-46E7-AB6E-190B5E8A8DEA - de06cc26fb0088b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.didStartCapturingPicture(for: KYC_SDK.CaptureSessionManager) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D0504383-00E7-46E7-AB6E-190B5E8A8DEA - de06cc26fb0088b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.didStartCapturingPicture(for: KYC_SDK.CaptureSessionManager) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDF411B3-EDE2-4DE2-A61D-49123B9AB513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "completeImageCapture(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDF411B3-EDE2-4DE2-A61D-49123B9AB513 - 705290e453a9bf24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in KYC_SDK.CaptureSessionManager.completeImageCapture(with: Foundation.Data) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "353"
+                  endingLineNumber = "353"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "EDF411B3-EDE2-4DE2-A61D-49123B9AB513 - 705290e453a9bf24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in KYC_SDK.CaptureSessionManager.completeImageCapture(with: Foundation.Data) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Utilities/Capture/CaptureSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "353"
+                  endingLineNumber = "353"
+                  offsetFromSymbolStart = "179">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "292A070E-A24F-418A-992D-22BA543A75F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Views/Capture/CaptureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "captureSessionManager(_:didCapturePicture:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "292A070E-A24F-418A-992D-22BA543A75F6 - 9baa43424c1651da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didCapturePicture: __C.UIImage) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "292A070E-A24F-418A-992D-22BA543A75F6 - 9baa43424c1651da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didCapturePicture: __C.UIImage) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "292A070E-A24F-418A-992D-22BA543A75F6 - 9baa43424c165309"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didCapturePicture: __C.UIImage) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "292A070E-A24F-418A-992D-22BA543A75F6 - 9baa43424c165309"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didCapturePicture: __C.UIImage) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "292A070E-A24F-418A-992D-22BA543A75F6 - 9baa43424c1651da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didCapturePicture: __C.UIImage) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "292A070E-A24F-418A-992D-22BA543A75F6 - 9baa43424c1651da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.captureSessionManager(_: KYC_SDK.CaptureSessionManager, didCapturePicture: __C.UIImage) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "716D7937-DCC4-442B-A916-284AFEBFD0A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Views/Capture/PreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "complete(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "716D7937-DCC4-442B-A916-284AFEBFD0A9 - 60cb40351f8c8277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.PreviewViewController.complete(Any) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "716D7937-DCC4-442B-A916-284AFEBFD0A9 - 60cb40351f8c8277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.PreviewViewController.complete(Any) -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/PreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B834A72-5A6E-4E50-A043-758AC00513A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KYC_SDK/Views/Capture/CaptureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "dismissBack()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B834A72-5A6E-4E50-A043-758AC00513A2 - 726a740b682969ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.dismissBack() -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "7B834A72-5A6E-4E50-A043-758AC00513A2 - 726a740b682969ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KYC_SDK.CaptureViewController.dismissBack() -&gt; ()"
+                  moduleName = "KYC_SDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/myProjects/Gowtham/Gowtham/ios-sdk-framework-codes/KYC_SDK/KYC_SDK/Views/Capture/CaptureViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

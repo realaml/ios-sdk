@@ -1,0 +1,11 @@
+framework module Realaml {
+  umbrella header "Realaml.h"
+
+  export *
+  module * { export * }
+}
+
+module Realaml.Swift {
+  header "Realaml-Swift.h"
+  requires objc
+}

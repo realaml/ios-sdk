@@ -1,0 +1,93 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Realaml
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import Foundation
+@_exported import Realaml
+import Swift
+import SwiftUI
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+@objc public enum RealamlErrorCode : Swift.Int {
+  case invalidSignatureKey = -101
+  case networkError = -102
+  case cameraPermissionDenied = -103
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public protocol KYCViewControllerDelegate {
+  @objc func kycViewController(_ controller: Realaml.KYCViewController, didFinishWith error: (any Swift.Error)?)
+  @objc func kycViewControllerDidCancelled(_ controller: Realaml.KYCViewController)
+}
+@_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor(unsafe) final public class KYCViewController : UIKit.UIViewController, UIKit.UINavigationControllerDelegate {
+  @objc @_Concurrency.MainActor(unsafe) final public let environment: Realaml.RealamlEnvironment
+  @objc @_Concurrency.MainActor(unsafe) final public let signatureKey: Swift.String
+  @objc @_Concurrency.MainActor(unsafe) weak final public var delegate: (any Realaml.KYCViewControllerDelegate)?
+  @objc @_Concurrency.MainActor(unsafe) public init(environment: Realaml.RealamlEnvironment, signatureKey: Swift.String)
+  @_Concurrency.MainActor(unsafe) @objc override final public func viewDidLoad()
+  @objc deinit
+}
+extension Realaml.KYCViewController : WebKit.WKNavigationDelegate, WebKit.WKUIDelegate {
+  @_Concurrency.MainActor(unsafe) @objc final public func webView(_ webView: WebKit.WKWebView, didFinish navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor(unsafe) @objc final public func webView(_ webView: WebKit.WKWebView, didStartProvisionalNavigation navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor(unsafe) @objc final public func webView(_ webView: WebKit.WKWebView, didFail navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
+  @_Concurrency.MainActor(unsafe) @objc final public func webView(_ webView: WebKit.WKWebView, didFailProvisionalNavigation navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
+}
+extension Realaml.KYCViewController : WebKit.WKScriptMessageHandler {
+  @_Concurrency.MainActor(unsafe) @objc final public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+}
+extension Realaml.KYCViewController : UIKit.UIImagePickerControllerDelegate {
+  @_Concurrency.MainActor(unsafe) @objc final public func imagePickerController(_ picker: UIKit.UIImagePickerController, didFinishPickingMediaWithInfo info: [UIKit.UIImagePickerController.InfoKey : Any])
+  @_Concurrency.MainActor(unsafe) @objc final public func imagePickerControllerDidCancel(_ picker: UIKit.UIImagePickerController)
+}
+@available(iOS 13.0, *)
+public struct KYCView : SwiftUI.UIViewControllerRepresentable {
+  public typealias Result = Swift.Result<Swift.Bool, any Swift.Error>
+  public typealias UIViewControllerType = Realaml.KYCViewController
+  public let environment: Realaml.RealamlEnvironment
+  public let signatureKey: Swift.String
+  @SwiftUI.Binding @_projectedValueProperty($result) public var result: Realaml.KYCView.Result? {
+    get
+    @available(iOS 13.0, *)
+    nonmutating set
+    @available(iOS 13.0, *)
+    nonmutating _modify
+  }
+  public var $result: SwiftUI.Binding<Realaml.KYCView.Result?> {
+    get
+  }
+  public init(environment: Realaml.RealamlEnvironment, signatureKey: Swift.String, result: SwiftUI.Binding<Realaml.KYCView.Result?>)
+  @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: Realaml.KYCView.Context) -> Realaml.KYCView.UIViewControllerType
+  @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ uiViewController: Realaml.KYCView.UIViewControllerType, context: Realaml.KYCView.Context)
+  public typealias Body = Swift.Never
+}
+@available(iOS 13.0, *)
+extension Realaml.KYCView {
+  @objc @_hasMissingDesignatedInitializers public class Coordinator : ObjectiveC.NSObject, Realaml.KYCViewControllerDelegate {
+    @objc public func kycViewController(_ controller: Realaml.KYCViewController, didFinishWith error: (any Swift.Error)?)
+    @objc public func kycViewControllerDidCancelled(_ controller: Realaml.KYCViewController)
+    @objc deinit
+  }
+  public func makeCoordinator() -> Realaml.KYCView.Coordinator
+}
+@objc public enum RealamlEnvironment : Swift.Int {
+  case staging
+  case release
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension Realaml.RealamlErrorCode : Swift.Equatable {}
+extension Realaml.RealamlErrorCode : Swift.Hashable {}
+extension Realaml.RealamlErrorCode : Swift.RawRepresentable {}
+extension Realaml.RealamlEnvironment : Swift.Equatable {}
+extension Realaml.RealamlEnvironment : Swift.Hashable {}
+extension Realaml.RealamlEnvironment : Swift.RawRepresentable {}
