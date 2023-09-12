@@ -42,7 +42,17 @@
 }
 
 -(void)kycViewController:(KYCViewController *)controller didFinishWith:(nullable NSError *)error {
-    [controller dismissViewControllerAnimated:YES completion:nil];
+    [controller dismissViewControllerAnimated:YES completion:^{
+        if (error != nil) {
+            UIAlertController *controller = [UIAlertController alertControllerWithTitle:@"Error!" message:error.localizedDescription preferredStyle:UIAlertControllerStyleAlert];
+            [controller addAction:[UIAlertAction actionWithTitle:@"OK" style:UIAlertActionStyleCancel handler:nil]];
+            [self presentViewController:controller animated:YES completion:nil];
+        } else {
+            UIAlertController *controller = [UIAlertController alertControllerWithTitle:@"Success!" message:@"KYC Completed successfully" preferredStyle:UIAlertControllerStyleAlert];
+            [controller addAction:[UIAlertAction actionWithTitle:@"OK" style:UIAlertActionStyleCancel handler:nil]];
+            [self presentViewController:controller animated:YES completion:nil];
+        }
+    }];
 }
 
 -(void)kycViewControllerDidCancelled:(KYCViewController *)controller {

@@ -27,7 +27,17 @@ class ViewController: UIViewController {
 
 extension ViewController: KYCViewControllerDelegate {
     func kycViewController(_ controller: KYCViewController, didFinishWith error: Error?) {
-        controller.dismiss(animated: true)
+        controller.dismiss(animated: true, completion: {
+            if let error = error {
+                let alertController = UIAlertController(title: "Error!", message: error.localizedDescription, preferredStyle: .alert)
+                alertController.addAction(.init(title: "OK", style: .cancel))
+                self.present(alertController, animated: true)
+            } else {
+                let alertController = UIAlertController(title: "Success!", message: "KYC Completed successfully", preferredStyle: .alert)
+                alertController.addAction(.init(title: "OK", style: .cancel))
+                self.present(alertController, animated: true)
+            }
+        })
     }
 
     func kycViewControllerDidCancelled(_ controller: KYCViewController) {
