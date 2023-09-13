@@ -345,7 +345,6 @@ typedef SWIFT_ENUM(NSInteger, RealamlErrorCode, open) {
 
 
 
-
 #endif
 #if defined(__cplusplus)
 #endif
@@ -698,7 +697,6 @@ typedef SWIFT_ENUM(NSInteger, RealamlErrorCode, open) {
   RealamlErrorCodeNetworkError = -102,
   RealamlErrorCodeCameraPermissionDenied = -103,
 };
-
 
 
 

@@ -2178,16 +2178,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Realaml",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       }
     ],
     "json_format_version": 8
@@ -3252,13 +3242,6 @@
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5013,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "StringLiteral",
       "offset": 1885,
       "length": 21,
@@ -3267,56 +3250,56 @@
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6036,
+      "offset": 5891,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7369,
+      "offset": 7224,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7435,
+      "offset": 7290,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7792,
+      "offset": 7647,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7910,
+      "offset": 7765,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8241,
+      "offset": 8096,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11171,
+      "offset": 11026,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/CaptureSessionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11368,
+      "offset": 11223,
       "length": 5,
       "value": "false"
     },
@@ -3435,70 +3418,84 @@
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7042,
+      "offset": 6926,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7463,
+      "offset": 7383,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7845,
+      "offset": 7765,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "Array",
-      "offset": 8107,
+      "offset": 8064,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 8368,
+      "kind": "IntegerLiteral",
+      "offset": 8338,
       "length": 4,
-      "value": "0.35"
-    },
-    {
-      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 8485,
-      "length": 3,
-      "value": "1.0"
+      "value": "1200"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8784,
+      "offset": 8352,
+      "length": 4,
+      "value": "1200"
+    },
+    {
+      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8382,
+      "length": 4,
+      "value": "1600"
+    },
+    {
+      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8396,
+      "length": 4,
+      "value": "1600"
+    },
+    {
+      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8551,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8914,
+      "offset": 8681,
       "length": 10,
       "value": "\"Realaml\/\""
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9757,
+      "offset": 9506,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/CaptureViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10131,
+      "offset": 9880,
       "length": 4,
       "value": "true"
     },
@@ -3862,119 +3859,147 @@
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 616,
+      "offset": 625,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1162,
+      "offset": 1171,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "FloatLiteral",
-      "offset": 1224,
+      "offset": 1233,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1334,
+      "offset": 1343,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "FloatLiteral",
-      "offset": 1412,
+      "offset": 1421,
       "length": 4,
       "value": "-2.0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1762,
+      "offset": 1771,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1811,
+      "offset": 1820,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1818,
+      "offset": 1827,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1949,
+      "offset": 1958,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 1998,
+      "offset": 2007,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2005,
+      "offset": 2014,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2294,
+      "offset": 2303,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2300,
+      "offset": 2309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2405,
+      "offset": 2414,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2411,
+      "offset": 2420,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "IntegerLiteral",
-      "offset": 2608,
+      "offset": 2617,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
       "kind": "BooleanLiteral",
-      "offset": 2809,
+      "offset": 2724,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 2946,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 3394,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
+      "kind": "FloatLiteral",
+      "offset": 3902,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureSession\/UIImageExtensions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4248,
       "length": 5,
       "value": "false"
     },
@@ -4019,13 +4044,6 @@
       "offset": 234,
       "length": 7,
       "value": "1"
-    },
-    {
-      "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/Extensions\/ViewExtensions.swift",
-      "kind": "BooleanLiteral",
-      "offset": 557,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/iftekhar\/Projects\/Projects\/Gowtham\/ios-sdk-framework-codes\/Realaml\/CaptureController\/PreviewViewController.swift",

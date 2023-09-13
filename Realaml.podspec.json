@@ -1,6 +1,6 @@
 {
   "name": "Realaml",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Realaml iOS SDK",
   "description": "Realaml iOS SDK for end-user verification",
   "homepage": "https://realaml.com",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/realaml/ios-sdk.git",
-    "tag": "0.2.0"
+    "tag": "0.3.0"
   },
   "platforms": {
     "ios": "11.0"
